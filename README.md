@@ -1,7 +1,7 @@
 Project Overview
 Installation
 
-1. Clone the repository: `git clone https://github.com/example/backend-api-service.git`
+1. Clone the repository: `git clone git@github.com:colinjohnclarke/tribally-tournament-test.git`
 2. Install dependencies: `npm install`
 3. Set up the environment variables by creating a `.env` file.
 4. Add the following variables to your .env file
@@ -390,5 +390,3 @@ example response
   ]
 }
 ```
-
-
